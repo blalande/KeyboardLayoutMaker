@@ -9,7 +9,7 @@ namespace textAnalyzer
     class Program
     {
         const string dataPath = "..\\data";
-        const string resultPath = ".\\result";
+        const string resultPath = "..\\data\\result\\result";
         static void Main(string[] args)
         {
             DataAnalyzer da = new DataAnalyzer();
