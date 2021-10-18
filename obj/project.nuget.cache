@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4HQXMI0H5mEQLnapiZ0EDYAK6TKuKTSdxlA82IlRU1WwjC2EDoHEECtRjK4kH/aovMPMjl+EkzEjJrxAorhyg==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Perso\\textAnalyzer\\textAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blalande\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
